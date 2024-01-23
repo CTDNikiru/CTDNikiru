@@ -5,7 +5,7 @@
 
 - 💬 Ask me about PHP, Symfony
 - 🌱 I’m currently learning Golang
-- 📫 How to reach me: [![Telegram](https://t.me/CTDNikiru)]
+- 📫 How to reach me: https://t.me/CTDNikiru
 <!--
 **CTDNikiru/CTDNikiru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
