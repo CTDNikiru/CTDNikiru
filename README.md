@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-[![wakatime](https://wakatime.com/badge/user/018cfc28-9a88-4d21-bb19-9c164622c3c4.svg)](https://wakatime.com/@018cfc28-9a88-4d21-bb19-9c164622c3c4)
-[![github](https://img.shields.io/github/followers/CTDNikiru?logo=github&style=plastic)](https://github.com/CTDNikiru?tab=followers)
-
 - 💬 Ask me about PHP, Symfony
 - 🌱 I’m currently learning Golang
 - 📫 How to reach me: https://t.me/CTDNikiru
